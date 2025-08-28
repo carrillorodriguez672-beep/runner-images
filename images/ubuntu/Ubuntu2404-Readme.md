@@ -1,4 +1,4 @@
-# Ubuntu 24.04
+Both Xdebug and PCOV extensions are installed, but only Xdebug is enabled.
 - OS Version: 24.04.3 LTS
 - Kernel Version: 6.11.0-1018-azure
 - Image Version: 20250824.1.0
